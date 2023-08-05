@@ -1,0 +1,6 @@
+https://cp-algorithms.com/algebra/fibonacci-numbers.html
+
+--fibonacci in linear time
+--fibonacci in log(n) time
+--matrix form 
+--Periodicity with modulo p (period of p^2-1)
