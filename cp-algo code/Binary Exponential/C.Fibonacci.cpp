@@ -2,9 +2,7 @@
 //question
 //https://codeforces.com/problemset/gymProblem/102644/C
 
-//sol
-//https://cp-algorithms.com/algebra/fibonacci-numbers.html#practice-problems
-
+ 
 //codeforces 
 //TC : O(log(n))
  
