@@ -1,0 +1,4 @@
+BFS
+--shortest path to node 
+--tc:o(n+m);
+--doesnt matter whether its undirected or directed 
